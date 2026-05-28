@@ -32,6 +32,9 @@ export default function Navigation() {
             <Link href="/projects" className="text-gray-700 hover:text-blue-600 transition">
               项目
             </Link>
+            <Link href="/jokes" className="text-gray-700 hover:text-blue-600 transition">
+              😄 笑话
+            </Link>
             <Link href="#contact" className="text-gray-700 hover:text-blue-600 transition">
               联系
             </Link>
@@ -60,6 +63,9 @@ export default function Navigation() {
             </Link>
             <Link href="/projects" className="block py-2 text-gray-700 hover:text-blue-600">
               项目
+            </Link>
+            <Link href="/jokes" className="block py-2 text-gray-700 hover:text-blue-600">
+              😄 笑话
             </Link>
             <Link href="#contact" className="block py-2 text-gray-700 hover:text-blue-600">
               联系
